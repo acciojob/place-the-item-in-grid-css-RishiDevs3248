@@ -1,6 +1,6 @@
 //your code here
 .holder{
 	display: grid;
-	grid-template-columns: repeat(2, 100px);
-	grid-template-rows: repeat(2, 100px);
+	grid-template-columns: 100px 100px;
+	grid-template-rows: 100px 100px;
 }
