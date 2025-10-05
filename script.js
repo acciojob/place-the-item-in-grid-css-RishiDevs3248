@@ -1,1 +1,6 @@
 //your code here
+.holder{
+	display: grid;
+	grid-template-columns: repeat(2, 100px);
+	grid-template-rows: repeat(2, 100px);
+}
